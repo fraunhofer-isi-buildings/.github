@@ -1,5 +1,7 @@
 # Publications
 
+Welcome! Here you’ll find a selection of representative publications from our business unit, covering: building stock modeling, district heating, prosumaging, transition pathways, energy efficiency, waste heat potential, geothermal resources, and agent‑based modeling.
+
 ## 2025
 
 * Yu, S.<sup>*</sup>; Mascherbauer, P.; Haupt, T.; Skrona, K.; Rickmann, H.; Kochański, M.; Kranzl, L.; (2025). **Modeling households’ behavior, energy system operation, and interaction in the energy community.** _Energy_, p. 136338. [(pdf)](./pdfs/2025_EGY_FLEX-Introduction.pdf)
