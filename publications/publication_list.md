@@ -17,15 +17,15 @@ Welcome! Here you’ll find a selection of representative publications from our 
 * Billerbeck, A.<sup>*</sup>; Bernath, C.; Manz, P.; Deac, G.; Held, A.; Winkler, J.; Kök, A.; Ragwitz, M. (2024). **Integrating district heating potentials into European energy system modelling: An assessment of cost advantages of renewable and excess heat.** _Smart Energy_, 15, 100150. [(pdf)](./pdfs/2024_SE_HeatGrids.pdf)
 * Billerbeck, A.<sup>*</sup>; Kiefer, C.; Winkler, J.; Bernath, C.; Sensfuß, F.; Kranzl, L.; Müller, A.; Ragwitz, M. (2024). **The race between hydrogen and heat pumps for space and water heating: A model-based scenario analysis.** _Energy Conversion and Management_, 299, 117850. [(pdf)](./pdfs/2024_ECM_ElecHeat.pdf)
 * Billerbeck, A.<sup>*</sup>; Breitschopf, B.; Preuß, S.; Winkler, J.; Ragwitz, M.; Keles, D. (2024). **Perception of district heating in Europe: A deep dive into influencing factors and the role of regulation.** _Energy Policy_, 184, 113860. [(pdf)](./pdfs/2024_EP_Perception-DH.pdf)
-* Manz, P.<sup>*</sup> (2024). **Towards climate-neutral district heating in the EU. Enhancing energy system modelling with spatial analysis**. Dissertation. Universiteit Utrecht.
-* Manz, P.<sup>*</sup>; Billerbeck, A.; Kök, A.; Fallahnejad, M.; Fleiter, T.; Kranzl, L.; Braungardt, S.; Eichhammer, W. (2024). **Spatial analysis of renewable and excess heat potentials for climate-neutral district heating in Europe**. _Renewable Energy_, 224, 120111. DOI: 10.1016/j.renene.2024.120111.
-* Manz, P.<sup>*</sup>; Fleiter, T.; Billerbeck, A.; Fritz, M.; Alibaş, Ş.; Eichhammer, W. (2024). **Identifying future district heating potentials in Germany: a study using empirical insights and distribution cost analysis.** _IJSEPM_, 40, 131–145. DOI: 10.54337/ijsepm.8142.
+* Manz, P.<sup>*</sup> (2024). **Towards climate-neutral district heating in the EU. Enhancing energy system modelling with spatial analysis**. Dissertation. Universiteit Utrecht. [(pdf)](./pdfs/2024_Utrecht_DissertationManz.pdf)
+* Manz, P.<sup>*</sup>; Billerbeck, A.; Kök, A.; Fallahnejad, M.; Fleiter, T.; Kranzl, L.; Braungardt, S.; Eichhammer, W. (2024). **Spatial analysis of renewable and excess heat potentials for climate-neutral district heating in Europe**. _Renewable Energy_, 224, 120111. [(pdf)](./pdfs/2024_RE_RES-Potentials.pdf)
+* Manz, P.<sup>*</sup>; Fleiter, T.; Billerbeck, A.; Fritz, M.; Alibaş, Ş.; Eichhammer, W. (2024). **Identifying future district heating potentials in Germany: a study using empirical insights and distribution cost analysis.** _IJSEPM_, 40, 131–145. [(pdf)](./pdfs/2024_IJSEPM_DiscoDE.pdf)
 
 ## 2023
 
 * Yu, S.; Hou, Z.<sup>*</sup> (2023). **Melodie: Agent-based Modeling in Python.** _Journal of Open Source Software_, 8(83), 5100. [(pdf)](./pdfs/2023_JOSS_Melodie.pdf)
 * Billerbeck, A.<sup>*</sup>; Breitschopf, B.; Winkler, J.; Bürger, V.; Köhler, B.; Bacquet, A.; Popovski, E.; Fallahnejad, M.; Kranzl, L.; Ragwitz, M.(2023). **Policy frameworks for district heating: A comprehensive overview and analysis of regulations and support measures across Europe.** _Energy Policy_, 173, 113377. [(pdf)](./pdfs/2023_EP_Policy-DH.pdf)
-* Manz, P.<sup>*</sup>; Fleiter, T.; Eichhammer, W. (2023). *The effect of low-carbon processes on industrial excess heat potentials for district heating in the EU: A GIS-based analysis.* _Smart Energy_, 10, 100103. DOI: 10.1016/j.segy.2023.100103.
+* Manz, P.<sup>*</sup>; Fleiter, T.; Eichhammer, W. (2023). *The effect of low-carbon processes on industrial excess heat potentials for district heating in the EU: A GIS-based analysis.* _Smart Energy_, 10, 100103. [(pdf)](./pdfs/2023_SE_IndustrialExcessHeat.pdf)
 
 ## 2022
 
