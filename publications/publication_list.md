@@ -2,9 +2,13 @@
 
 Welcome! Here you’ll find a selection of representative publications from our business unit, covering: building stock modeling, district heating, prosumaging, transition pathways, energy efficiency, waste heat potential, geothermal resources, and agent‑based modeling.
 
+## 2026
+
+* Alibaş, Ş.<sup>*</sup>; Yu, S.; Manz, P. (2026). **Environmental Heat Source Potentials for Decentralized Heat Pumps: A GIS-Based Analysis.** _Energies_, 19(5), 1219. [(link)](https://www.mdpi.com/1996-1073/19/5/1219)
+
 ## 2025
 
-* Alibaş, S.; Yu, S.<sup>*</sup>; Bagheri, M.; Fleiter, T. (2025). **Advancing building stock transformation models: An agent-based approach and its application to Germany.** _Advances in Applied Energy_, 20, 100256. [(pdf)](./pdfs/2025_ADAPEN_RENDER-Building.pdf)
+* Alibaş, Ş.; Yu, S.<sup>*</sup>; Bagheri, M.; Fleiter, T. (2025). **Advancing building stock transformation models: An agent-based approach and its application to Germany.** _Advances in Applied Energy_, 20, 100256. [(pdf)](./pdfs/2025_ADAPEN_RENDER-Building.pdf)
 * Yu, S.<sup>*</sup>; Mascherbauer, P.; Haupt, T.; Skrona, K.; Rickmann, H.; Kochański, M.; Kranzl, L. (2025). **Modeling households’ behavior, energy system operation, and interaction in the energy community.** _Energy_, p. 136338. [(pdf)](./pdfs/2025_EGY_FLEX-Introduction.pdf)
 * Gnann, T.<sup>*</sup>, Yu, S., Stute, J., & Kühnbach, M. (2025). **The value of smart charging at home and its impact on EV market shares–A German case study.** _Applied Energy_, 380, 124997. [(pdf)](./pdfs/2025_APEN_FLEX-EV.pdf)
 * Kök, A.<sup>*</sup>; Billerbeck, A.; Manz, P.; Kranzl, L. (2025). **Achieving climate neutrality in district heating: The impact of system temperature levels on the supply mix of EU-27 in 2050.** _Energy_, 315, 134371. [(pdf)](./pdfs/2025_EGY_Hotmaps-DHC.pdf)
