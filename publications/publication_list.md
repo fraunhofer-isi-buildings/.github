@@ -17,7 +17,7 @@ Welcome! Here you’ll find a selection of representative publications from our 
 
 ## 2024
 
-* Alibas, S.; Yu, S.<sup>*</sup> (2024). **Developing a Regionalized Representative Building Stock Model for Germany.** _Proceedings of eceee Summer Study 2024_. [(pdf)](./pdfs/2024_ECEEE_RENDER-BuildingStock.pdf)
+* Alibaş, Ş.; Yu, S.<sup>*</sup> (2024). **Developing a Regionalized Representative Building Stock Model for Germany.** _Proceedings of eceee Summer Study 2024_. [(pdf)](./pdfs/2024_ECEEE_RENDER-BuildingStock.pdf)
 * Billerbeck, A.<sup>*</sup>; Bernath, C.; Manz, P.; Deac, G.; Held, A.; Winkler, J.; Kök, A.; Ragwitz, M. (2024). **Integrating district heating potentials into European energy system modelling: An assessment of cost advantages of renewable and excess heat.** _Smart Energy_, 15, 100150. [(pdf)](./pdfs/2024_SE_HeatGrids.pdf)
 * Billerbeck, A.<sup>*</sup>; Kiefer, C.; Winkler, J.; Bernath, C.; Sensfuß, F.; Kranzl, L.; Müller, A.; Ragwitz, M. (2024). **The race between hydrogen and heat pumps for space and water heating: A model-based scenario analysis.** _Energy Conversion and Management_, 299, 117850. [(pdf)](./pdfs/2024_ECM_ElecHeat.pdf)
 * Billerbeck, A.<sup>*</sup>; Breitschopf, B.; Preuß, S.; Winkler, J.; Ragwitz, M.; Keles, D. (2024). **Perception of district heating in Europe: A deep dive into influencing factors and the role of regulation.** _Energy Policy_, 184, 113860. [(pdf)](./pdfs/2024_EP_Perception-DH.pdf)
