@@ -5,6 +5,7 @@ Welcome! Here you’ll find a selection of representative publications from our 
 ## 2026
 
 * Alibaş, Ş.<sup>*</sup>; Yu, S.; Manz, P. (2026). **Environmental Heat Source Potentials for Decentralized Heat Pumps: A GIS-Based Analysis.** _Energies_, 19(5), 1219. [(link)](https://www.mdpi.com/1996-1073/19/5/1219)
+* Alibaş, Ş.<sup>*</sup>; Yu, S.; Oberle, S.; Billerbeck, A.; Henning, H-M. (2026). **Competition in Building Heating—The Techno-Economic Case for Decentralized Heat Pumps in Germany up to 2045.** _Energies_, 19(18), 4377. [(link)](https://www.mdpi.com/1996-1073/19/18/4377)
 
 ## 2025
 
